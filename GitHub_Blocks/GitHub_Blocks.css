@@ -1,0 +1,45 @@
+* {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+.red {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+}
+
+.purple {
+    background-color: purple;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+}
+
+.blue {
+    background-color: rgb(38, 38, 160);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+}
